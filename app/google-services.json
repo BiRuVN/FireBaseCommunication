@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "171046787608",
+    "firebase_url": "https://andrfire-89083.firebaseio.com",
+    "project_id": "andrfire-89083",
+    "storage_bucket": "andrfire-89083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171046787608:android:a9cb3d8c3dac7876",
+        "android_client_info": {
+          "package_name": "com.example.andrfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171046787608-11bjrf2jidij4c72r88qf7r4dsmuu0pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATSbois0FpZlNgiDkdCbCY_qaTE_EDOCY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
